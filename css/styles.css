@@ -302,10 +302,9 @@ body {
 }
 .footer > .container {
   display: flex;
+  align-items: baseline;
 }
-.join-box {
-  padding-top: 12px;
-}
+
 .join-box > .social-list {
   display: flex;
 }
